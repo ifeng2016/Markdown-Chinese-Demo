@@ -128,7 +128,7 @@ GitHub还支持多级别的list列表条目：
 		  </tr>
 		  <tr>
 		    <td>Hello</td>
-		    <td>你好</td>
+		    <td>你好！</td>
 		  </tr>
 	    </table>
 	</div>
@@ -141,7 +141,7 @@ GitHub还支持多级别的list列表条目：
 	  </tr>
 	  <tr>
 	    <td>Hello</td>
-	    <td>你好</td>
+	    <td>你好！</td>
 	  </tr>
 	</table>
 </div>
